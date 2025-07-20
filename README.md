@@ -1,2 +1,0 @@
-# svm-hyperalignment-fmri
-beskrivelse
