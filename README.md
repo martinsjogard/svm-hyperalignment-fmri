@@ -65,5 +65,3 @@ project_root/
 ```
 
 ---
-
-*These tools are designed for advanced neuroimaging analysis workflows where both within-subject and across-subject comparisons are essential.*
